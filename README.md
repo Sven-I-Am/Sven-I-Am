@@ -11,7 +11,7 @@
 I'm a Junior Web Developer in training at [BeCode](https://becode.org/) pursuing my passion for coding and learning.
 
 - 🔭 I’m currently working on my portfolio
-- 🌱 I’m currently learning ![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=white) and ![Threejs](https://img.shields.io/badge/ThreeJS-green?style=flat-square&logo=three.js&logoColor=white)
+- 🌱 I’m currently learning ![NextJS](https://img.shields.io/badge/-NextJS-white?style=flat-square&logo=next.js&logoColor=black)
 - 👯 I’m looking to collaborate with anyone willing to guide me along my dev journey
 - 🤔 I’m looking for help with how to pick the right style for my portfolio
 - 💬 Ask me about anything, what I don't know yet', I can research and learn about
