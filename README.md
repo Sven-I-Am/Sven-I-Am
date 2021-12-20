@@ -11,7 +11,7 @@
 I'm a Junior Web Developer in training at [BeCode](https://becode.org/) pursuing my passion for coding and learning.
 
 - 🔭 I’m currently working on my Becode training, learning as much as I can as fast as I can :mortar_board:
-- 🌱 I’m currently learning ![Typescript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/-Php-lightslategray?style=flat-square&logo=php&logoColor=white)
+- 🌱 I’m currently learning ![Typescript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/-Php-lightslategray?style=flat-square&logo=php&logoColor=white) ![Scrum](https://img.shields.io/badge/-Scrum-darkblue?style=flat-square&logo=scrum&logoColor=white) ![Agile](https://img.shields.io/badge/-Agile-lightblue?style=flat-square&logo=agile&logoColor=black)
 - 👯 I’m looking to collaborate with anyone willing to guide me along my dev journey
 - 💬 Ask me about anything, what I don't know yet, I can research and learn about
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sven.vander.mierde@gmail.com)](mailto:sven.vander.mierde@gmail.com)
