@@ -11,7 +11,7 @@
 I'm a Junior Web Developer in training at [BeCode](https://becode.org/) pursuing my passion for coding and learning.
 
 - 🔭 I’m currently working on my Becode training, learning as much as I can as fast as I can :mortar_board:
-- 🌱 I’m currently learning ![Symfony](https://img.shields.io/badge/-Symfony-darkslategrey?style=plastic-square&logo=symfony&logoColor=white)
+- 🌱 I’m currently learning ![Vue.js](https://img.shields.io/badge/-Vue.js-353535?style=plastic-square&logo=vue.js)
 - 👯 I’m looking to collaborate with anyone willing to guide me along my dev journey
 - 💬 Ask me about anything, what I don't know yet, I can research and learn about
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=plastic-square&logo=Gmail&logoColor=white&link=mailto:sven.vander.mierde@gmail.com)](mailto:sven.vander.mierde@gmail.com)
@@ -34,6 +34,7 @@ I'm a Junior Web Developer in training at [BeCode](https://becode.org/) pursuing
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-353535?style=plastic-square&logo=bootstrap)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-353535?style=plastic-square&logo=tailwindcss)
 ![Socketio](https://img.shields.io/badge/-Socket.io-353535?style=plastic-square&logo=socket.io)
+![Vue.js](https://img.shields.io/badge/-Vue.js-353535?style=plastic-square&logo=vue.js)
 ![Angular](https://img.shields.io/badge/-Angular-353535?style=plastic-square&logo=Angular&logoColor=red)
 ![React](https://img.shields.io/badge/-React-353535?style=plastic-square&logo=react)
 ![Symfony](https://img.shields.io/badge/-Symfony-353535?style=plastic-square&logo=symfony)
