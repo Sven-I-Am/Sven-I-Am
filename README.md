@@ -9,9 +9,10 @@
 ## :information_source:A little about me...
 
 I'm a Junior Web Developer in training at [BeCode](https://becode.org/) pursuing my passion for coding and learning.
+Right now I'm doing my internship as a software engineer at [Inuits](https://inuits.eu/) working in both frontend (Vue) and backend (Symfony).
 
 - 🔭 I’m currently working on my Becode training, learning as much as I can as fast as I can :mortar_board:
-- 🌱 I’m currently learning ![Vue.js](https://img.shields.io/badge/-Vue.js-353535?style=plastic-square&logo=vue.js)
+- 🌱 I’m currently learning ![Vue.js](https://img.shields.io/badge/-Vue.js-353535?style=plastic-square&logo=vue.js)![Symfony](https://img.shields.io/badge/-Vue.js-353535?style=plastic-square&logo=symfony)
 - 👯 I’m looking to collaborate with anyone willing to guide me along my dev journey
 - 💬 Ask me about anything, what I don't know yet, I can research and learn about
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=plastic-square&logo=Gmail&logoColor=white&link=mailto:sven.vander.mierde@gmail.com)](mailto:sven.vander.mierde@gmail.com)
